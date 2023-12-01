@@ -120,8 +120,8 @@ button:hover {
 .about-me {
     position: absolute;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 166px;
-    right: 0;
+    font-size: 15px;
+    right: 135px;
 }
 
 @media screen and (max-width: 1075px) {
